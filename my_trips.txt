@@ -1,0 +1,6 @@
+id	username	destination	mode	cost	date	category
+3	ABI	DELHI	Flight	3500	2025-10-22	Family
+4	ABI	DELHI	Flight	3500	2025-10-22	Family
+5	ABI	DELHI	Flight	3500	2025-10-22	Family
+6	ABI	GOA	Train	12000	2025-10-23	Solo
+7	ABI	GOA	Train	12000	2025-10-23	Solo
